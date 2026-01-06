@@ -123,8 +123,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   NewTextures:
-  - {fileID: 2800000, guid: c4b5a8be3f18e4de6a4bce8eb5eaae8f, type: 3}
-  - {fileID: 2800000, guid: 1c048166b37de45f2b275d9aa84b0a35, type: 3}
+  - {fileID: 2800000, guid: b4bcf84e77e074ffe99a6120b3c81951, type: 3}
+  - {fileID: 2800000, guid: 46626ef85fc3c400ba050cde4040e40f, type: 3}
+  - {fileID: 2800000, guid: 22e57770c06ef4d558ef2fe8b1a59b8f, type: 3}
 --- !u!1 &3377376111226840746
 GameObject:
   m_ObjectHideFlags: 0

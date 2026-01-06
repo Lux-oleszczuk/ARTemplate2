@@ -11,13 +11,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/simple image tracking.unity
     guid: 6a1d191ec370d4da4b96edeacb062206
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/image texture overlay.unity
     guid: 847ebdf0266374515a19da859b546ecb
   - enabled: 0
     path: Assets/Scenes/Christmas.unity
     guid: 5381cd05b7f50462bbc999b785ab629a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Xmas2.unity
     guid: 49f6fd31b278d490d957517a9786cedd
   m_configObjects:
