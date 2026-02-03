@@ -215,6 +215,7 @@ MonoBehaviour:
   - {fileID: 2800000, guid: b4bcf84e77e074ffe99a6120b3c81951, type: 3}
   - {fileID: 2800000, guid: 46626ef85fc3c400ba050cde4040e40f, type: 3}
   - {fileID: 2800000, guid: 05fa00dbda99747899cd845eb8e66725, type: 3}
+  FinalTexture: {fileID: 2800000, guid: 22e57770c06ef4d558ef2fe8b1a59b8f, type: 3}
 --- !u!135 &8830538870667204359
 SphereCollider:
   m_ObjectHideFlags: 0
